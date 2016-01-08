@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: The Temple of Boom
-datePublished: '2016-01-08T11:29:31.720Z'
-dateModified: '2016-01-08T11:29:11.156Z'
+datePublished: '2016-01-08T11:31:39.861Z'
+dateModified: '2016-01-08T11:31:29.326Z'
 title: Hall of Idols
 author: []
 authors: []
