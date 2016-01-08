@@ -1,7 +1,7 @@
 name: A Meandering Mammoth
 favicon: null
-layout_spectrum: 0.414473
-typography_spectrum: 0.325657
+layout_spectrum: 0.93665
+typography_spectrum: 0.53319
 title: 'For Science!'
 cta:
   domain: null
@@ -17,15 +17,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8D0D0'
-    - '#381000'
-    - '#A05050'
-    - '#C02830'
-    - '#F04858'
-  brandStrength: 0.793585
-  lightness: 0.731907
-  saturation: 0.857975
-  rhythmicContrast: 0.834701
+    - '#ffffff'
+    - '#150800'
+    - '#4f5962'
+    - '#a9c5d0'
+    - '#b68b61'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.125
+  rhythmicContrast: 0
 purpose:
   - name: null
     item: null
